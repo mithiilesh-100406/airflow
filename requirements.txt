@@ -1,0 +1,13 @@
+pandas
+numpy
+sentence-transformers
+chromadb
+langchain
+langchain-community
+langchain-huggingface
+fastapi
+uvicorn
+streamlit
+python-dotenv
+loguru
+ollama
